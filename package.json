@@ -1,0 +1,23 @@
+{
+  "name": "hrmis_db_api",
+  "version": "1.0.0",
+  "description": "hrmis db api",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FawadSurosh/hrmis_db_api.git"
+  },
+  "author": "Fawad Surosh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FawadSurosh/hrmis_db_api/issues"
+  },
+  "homepage": "https://github.com/FawadSurosh/hrmis_db_api#readme"
+}
